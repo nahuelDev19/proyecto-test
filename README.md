@@ -1,2 +1,2 @@
-Descripción del Proyecto
+Descripción del Proyecto:
 Este proyecto es un ejemplo práctico de cómo implementar pruebas unitarias y de integración en aplicaciones Spring Boot. Utiliza JUnit y Mockito para crear pruebas robustas y Spring Boot Test para simplificar la configuración de las pruebas. Este ejemplo es ideal para desarrolladores que buscan mejorar la calidad de sus aplicaciones Spring Boot mediante pruebas automatizadas.
